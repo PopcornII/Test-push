@@ -7,4 +7,6 @@
 - UI design 
   - login form layout
   - Home layout
-  - students
+  - user layout & func create,delete, update, get,upload pic
+  - profile
+  - 
