@@ -1,0 +1,49 @@
+.login-form {
+    width: 500px;
+    max-width: 100%;
+    margin: 100px auto;
+    background-color: darkblue;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    font-family: "Georgia", serif;
+  }
+  .login-form h1 {
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+  }
+  .login-form form {
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+    font-family: "Georgia", serif;
+  }
+  .login-form form label {
+    display: flex;
+    margin-bottom: 8px;
+    font-size: 16px;
+    color: gray;
+    font-family: "Georgia", serif;
+  }
+  
+  .login-form form {
+    width: 100%;
+    padding: 50px;
+    border-radius: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .login-form button {
+    font-family:"Georgia", serif;
+    background-color: darkblue;
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 7cm;
+  }
+  .login-form form input{
+    text-align: left;
+  }
+  
