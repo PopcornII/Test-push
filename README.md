@@ -1,4 +1,4 @@
-# ====================================================
+# ================================================= ===
 - Sprint 1
 - create-react app name student_frontend
 
@@ -9,4 +9,6 @@
   - Home layout
   - user layout & func create,delete, update, get,upload pic
   - profile
-  - 
+  - User management page
+  # ============================
+    - Navigate page
